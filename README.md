@@ -11,7 +11,7 @@
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
 - 🔭 I am Working on multiple personal projects, both frontend and backend, using Angular and Springboot.
 - 🌱 Learning design patterns in depth.
-- 📚 I’m learning Advanced React Native, Node.js, React, Golang, Kotlin and Swift..
+- 📚 I’m learning Advanced React Native, Node.js, React, Golang and Kotlin...
 
 <!-- <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
