@@ -46,7 +46,6 @@ Trabajo de punta a punta: backends en **Java / Spring Boot** y **Node.js (NestJS
 
 - Profundizando en **arquitectura hexagonal**, DDD y patrones de diseño.
 - Explorando **desarrollo guiado por especificaciones** con agentes de IA.
-- Aprendiendo **Go** y **Kotlin**.
 
 <!--
 <p align="center">
