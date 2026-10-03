@@ -1,30 +1,56 @@
-### Hi world, I'm Leonardo 👋
+# Hola, soy Leonardo Medina 👋
 
+**Full Stack Developer** en Guayaquil, Ecuador 🇪🇨 · +8 años construyendo software empresarial.
+
+Trabajo de punta a punta: backends en **Java / Spring Boot** y **Node.js (NestJS)**, frontends en **Angular** y **React**, y la parte de **DevOps y cloud** que los pone en producción. Hoy participo en la modernización de sistemas del sector asegurador: migración de un monolito Java hacia **AWS** con **Oracle**, y adopción de microservicios y APIs GraphQL.
+
+[![Portafolio](https://img.shields.io/badge/Portafolio-leomedinadev.github.io-0f172a?style=flat-square&logo=angular&logoColor=white)](https://leomedinadev.github.io/ltd-portfolio-ng/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Medina-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-medina-arias-305484164)
+[![Email](https://img.shields.io/badge/Email-leo7medina%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leo7medina@gmail.com)
+
+---
+
+### 🛠️ Stack
+
+- **Backend:** Java, Spring Boot, Spring Cloud, Hibernate/JPA, Node.js, NestJS, Express, GraphQL
+- **Frontend:** Angular, React, TypeScript, Tailwind CSS
+- **Datos:** Oracle, MySQL, PostgreSQL, SQLite
+- **Cloud & DevOps:** AWS, Docker, Docker Compose, GitHub Actions, Linux
+
+[![Stack](https://skillicons.dev/icons?i=java,spring,nodejs,nestjs,graphql,angular,react,ts,tailwind,mysql,postgres,aws,docker,githubactions,linux&perline=15)](https://skillicons.dev)
+
+---
+
+### 🚀 Proyectos destacados
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| [**ltd-portfolio-ng**](https://github.com/leomedinadev/ltd-portfolio-ng) | Mi portafolio personal, desplegado con CI a GitHub Pages · [ver en vivo](https://leomedinadev.github.io/ltd-portfolio-ng/) | Angular 21 (signals), Tailwind v4, Vitest, GitHub Actions |
+| [**ltd-banking-sb**](https://github.com/leomedinadev/ltd-banking-sb) | Sistema bancario (cuentas y transacciones) con arquitectura hexagonal y Swagger | Java 21, Spring Boot 4, JPA, MySQL, Docker Compose |
+| [**ltd-reservas-padel**](https://github.com/leomedinadev/ltd-reservas-padel) | Reservas de canchas con prevención estricta de doble reserva, desarrollado con *spec-driven development* | Node.js, Express, React, TypeScript, SQLite |
+| [**microservices-hotel**](https://github.com/leomedinadev/microservices-hotel) | Reservas de hotel en microservicios: Config Server, Eureka, API Gateway y OpenFeign | Spring Boot 3, Spring Cloud, Docker Compose |
+
+---
+
+### 💼 Experiencia
+
+- **Full Stack Developer** · Clave Technologies — *actualidad*
+  Modernización de sistemas de seguros: migración a AWS + Oracle, microservicios, GraphQL y NestJS.
+- **Consultor Técnico** · Kruger Corporation — *2018*
+  Sistemas de gestión operativa y logística con Spring, Angular y Node.js.
+- **Desarrollador de Software** · PalmaPlast — *2017*
+  Diseño y desarrollo del módulo de inventarios e integración contable (PHP / Yii).
+
+---
+
+### 🌱 Ahora mismo
+
+- Profundizando en **arquitectura hexagonal**, DDD y patrones de diseño.
+- Explorando **desarrollo guiado por especificaciones** con agentes de IA.
+- Aprendiendo **Go** y **Kotlin**.
+
+<!--
 <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=leomedinadev&show_icons=true&hide_border=true&theme=transparent" height="150" />
 </p>
-
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>  Full Stack Software Developer
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
-
-- 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🔭 I am Working on multiple personal projects, both frontend and backend, using Angular and Springboot.
-- 🌱 Learning design patterns in depth.
-- 📚 I’m learning Advanced React Native, Node.js, React, Golang and Kotlin...
-
-<!-- <p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
-</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🔭 Tranbajando en multiples proyectos frontend y backend usando
-- 🌱 Aprender patrones de diseño en profundidad.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+-->
