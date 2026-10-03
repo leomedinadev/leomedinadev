@@ -6,7 +6,6 @@ Trabajo de punta a punta: backends en **Java / Spring Boot** y **Node.js (NestJS
 
 [![Portafolio](https://img.shields.io/badge/Portafolio-leomedinadev.github.io-0f172a?style=flat-square&logo=angular&logoColor=white)](https://leomedinadev.github.io/ltd-portfolio-ng/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Leonardo%20Medina-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-medina-arias-305484164)
-[![Email](https://img.shields.io/badge/Email-leo7medina%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leo7medina@gmail.com)
 
 ---
 
